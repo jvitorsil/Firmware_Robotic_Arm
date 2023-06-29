@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "ESPNow_Connection",
+			"path": "../../ESPNow_Connection"
+		},
+		{
+			"name": "ESPNow_Recivier",
+			"path": ".."
+		},
+		{
+			"name": "PiscaLED",
+			"path": "../../PiscaLED"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"random": "cpp"
+		}
+	}
+}
